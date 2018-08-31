@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images/geismar_logo.img">
+        <file>images/geismar_logo.jpg</file>
+    </qresource>
+</RCC>
